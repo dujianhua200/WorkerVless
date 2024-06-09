@@ -13,7 +13,7 @@ let addresses = [
 let addressesapi = [
 	'https://addressesapi.090227.xyz/CloudFlareYes', //可参考内容格式 自行搭建。
         'https://zidongjiaoben.505118508.workers.dev/ip.txt?token=jiaoben', //可参考内容格式 自行搭建。
-        'https://ipdb.api.030101.xyz/?type=bestcf&country, //可参考内容格式 自行搭建。
+        'https://ipdb.api.030101.xyz/?type=bestcf&country', //可参考内容格式 自行搭建。
 	'https://ipdb.api.030101.xyz/?type=bestproxy&country', //可参考内容格式 自行搭建。	
 ];
 
